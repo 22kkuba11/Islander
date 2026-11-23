@@ -1,6 +1,6 @@
 # ISLANDER
 
-22kkuba11.github.io/Islander
+https://22kkuba11.github.io/Islander
 
 A simple 2D survival game made with **Godot 3.6**.
 
