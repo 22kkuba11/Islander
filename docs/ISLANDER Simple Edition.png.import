@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ISLANDER Simple Edition.png-0e1f93d07baa2e2f46d97d57d364043e.stex"
+path="res://.import/ISLANDER Simple Edition.png-04e5def7beccf9d065a4e8f25342b9bc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Builds/WEB HTML/ISLANDER Simple Edition.png"
-dest_files=[ "res://.import/ISLANDER Simple Edition.png-0e1f93d07baa2e2f46d97d57d364043e.stex" ]
+source_file="res://Builds/docs/ISLANDER Simple Edition.png"
+dest_files=[ "res://.import/ISLANDER Simple Edition.png-04e5def7beccf9d065a4e8f25342b9bc.stex" ]
 
 [params]
 
